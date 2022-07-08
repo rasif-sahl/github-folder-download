@@ -1,1 +1,1 @@
-# github-folder-download
+# Download files and folders from github
